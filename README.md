@@ -17,7 +17,7 @@
 
 ### Младший C++ разработчик, VK
 
-*Июнь 2023 - настоящее время*
+*Июнь 2023 - С*ентябрь 2024
 
 - Разработка и поддержка компилятора [KPHP](https://github.com/VKCOM/kphp)
   - Обновление зависимостей
@@ -117,7 +117,7 @@
   - июль 2024 г. - июль 2024 г.
   - мой сайт
   - HTML
- 
+
 - ### [download_animego](https://github.com/andarut/download_animego)
   - апр. 2024 г. - апр. 2024 г.
   - Скрипт для загрузки любого аниме с https://animego.org/
@@ -132,17 +132,17 @@
   - июнь 2024 г. - июнь 2024 г.
   - Скрипт для загрузки любого веб-сайта, созданного с помощью https://www.wix.com/
   - Python, Web scraping
- 
+
 - ### [tv](https://github.com/andarut/tv) 
   - март 2024 г. - март 2024 г.
   - Смотрите видео в терминале
   - Python
- 
+
 - ### [Digger_2D](https://github.com/andarut/Digger_2D)
   - сент. 2014 г. - дек. 2014 г.
   - Игра
   - Python, Pygame.
- 
+
 - ### [kphp-runtime-docs](https://github.com/andarut/kphp-runtime-docs)
   - авг. 2023 г. - авг. 2023 г.
   - Статья на habr
