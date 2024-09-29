@@ -1,6 +1,6 @@
 
+![photo_2024-09-28 01 57 35](https://github.com/user-attachments/assets/c47eae6b-7275-4355-bc74-e423d41c4407)
 
-# ![photo_2024-09-28 01.57.35](/Users/andarut/Downloads/photo_2024-09-28 01.57.35.jpeg)
 
 # Арутюнян Андрей Романович
 
