@@ -1,6 +1,6 @@
 
+![photo_2024-09-28 01 57 35](https://github.com/user-attachments/assets/591f436b-7daa-489a-9ef7-ab84555a8041)
 
-# ![photo_2024-09-28 01.57.35](/Users/andarut/Downloads/photo_2024-09-28 01.57.35.jpeg)
 
 # Арутюнян Андрей Романович
 
@@ -48,29 +48,29 @@
 
 ## Проекты
 
-- ### [download_animego](https://github.com/andarut/download_animego)
+- ### [kphp](https://github.com/andarut/kphp)
 
-  - Скрипт для загрузки любого аниме с https://animego.org/
-  - Python, Web scraping
+  - KPHP — компилятор PHP
+  - С++, Docker, Github Actions, Teamcity
 
-- ### [download_tilda](https://github.com/andarut/download_tilda)
+- ### [uber-h3](https://github.com/andarut/uber-h3)
 
-  - Скрипт для загрузки любого веб-сайта, созданного с помощью https://tilda.cc/
-  - Python, Web scraping
+  - пакет uber-h3 .deb для PHP, ветка dpkg-build
+  - Cmake
 
-- ### [download_wix](https://github.com/andarut/download_wix) 
+- ### [libmbfl](https://github.com/andarut/libmbfl)
 
-  - Скрипт для загрузки любого веб-сайта, созданного с помощью https://www.wix.com/
-  - Python, Web scraping
+  - Библиотека для обработки различных кодировок, используемая в расширении mbstring для PHP
+  - C, make
 
 - ### [vpn](https://github.com/andarut/vpn)
 
   - Мобильное приложение для подключения VPN
   - TypeScript, React-native, OpenVPN
 
-- ### [tv](https://github.com/andarut/tv) 
+- ### [alfred](https://github.com/andarut/alfred)
 
-  - Смотрите видео в терминале
+  - TTS (преобразование текста в речь) в прямом эфире.
   - Python
 
 - ### [quantum](https://github.com/andarut/quantum)
@@ -103,20 +103,10 @@
   - Мобильная игра для iOS
   - Swift
 
-- ### [Digger_2D](https://github.com/andarut/Digger_2D)
-
-  - Игра
-  - Python, Pygame.
-
 - ### [deflate_balloon](https://github.com/andarut/deflate_balloon)
 
   - Мобильная игра, разработанная на движке Godot
   - GDScript
-
-- ### [alfred](https://github.com/andarut/alfred)
-
-  - TTS (преобразование текста в речь) в прямом эфире.
-  - Python
 
 - ### [thoughts](https://github.com/andarut/thoughts)
 
@@ -127,21 +117,31 @@
 
   - мой сайт
   - HTML
+ 
+- ### [download_animego](https://github.com/andarut/download_animego)
 
-- ### [kphp](https://github.com/andarut/kphp)
+  - Скрипт для загрузки любого аниме с https://animego.org/
+  - Python, Web scraping
 
-  - KPHP — компилятор PHP
-  - С++, Docker, Github Actions, Teamcity
+- ### [download_tilda](https://github.com/andarut/download_tilda)
 
-- ### [uber-h3](https://github.com/andarut/uber-h3)
+  - Скрипт для загрузки любого веб-сайта, созданного с помощью https://tilda.cc/
+  - Python, Web scraping
 
-  - пакет uber-h3 .deb для PHP, ветка dpkg-build
-  - Cmake
+- ### [download_wix](https://github.com/andarut/download_wix) 
 
-- ### [libmbfl](https://github.com/andarut/libmbfl)
+  - Скрипт для загрузки любого веб-сайта, созданного с помощью https://www.wix.com/
+  - Python, Web scraping
+ 
+- ### [tv](https://github.com/andarut/tv) 
 
-  - Библиотека для обработки различных кодировок, используемая в расширении mbstring для PHP
-  - C, make
+  - Смотрите видео в терминале
+  - Python
+ 
+- ### [Digger_2D](https://github.com/andarut/Digger_2D)
+
+  - Игра
+  - Python, Pygame.
 
 ## Языки
 
