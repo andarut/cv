@@ -1,19 +1,17 @@
-![photo_2024-09-28 01 57 35](https://github.com/user-attachments/assets/591f436b-7daa-489a-9ef7-ab84555a8041)
+<img src="https://github.com/user-attachments/assets/1ced7d2f-0119-40ea-8ee2-f236c5d1fbf0" alt="drawing" width="190" align="left"/>
 
 
-# Арутюнян Андрей Романович
+
+<p>Арутюнян Андрей Романович</p>
 
 - Возраст: 20 лет
 - Зарплатные ожидания: от 120 000 рублей
-
-## Контактная информация
-
-- Email: andreylzwl@gmail.com
 - Телефон: +79647146431
-- Город: Москва
+- andreylzwl@gmail.com
 - [Telegram](https://t.me/andarut)
 - [VK](https://vk.com/andarut)
 - [Linkedin](https://www.linkedin.com/in/andrey-arutiunian-165312203/)
+
 
 ## Профессиональный опыт
 
