@@ -1,8 +1,10 @@
-
 ![photo_2024-09-28 01 57 35](https://github.com/user-attachments/assets/591f436b-7daa-489a-9ef7-ab84555a8041)
 
 
 # Арутюнян Андрей Романович
+
+- Возраст: 20 лет
+- Зарплатные ожидания: от 120 000 рублей
 
 ## Контактная информация
 
@@ -41,9 +43,9 @@
 ## Навыки
 
 - Языки программирования: HTML, CSS, JS, Python, C, C++, TypeScript, Swift, GDScript
-- Фреймворки: Flask, Django, selenium, OpenGL, OpenCL, SDL
+- Фреймворки: Flask, Django, selenium, OpenGL, OpenCL, SDL, NextJS, CoreData
 - Базы данных: MySQL, MongoDB, Firebase, SQLlalchemy
-- Инструменты: Git, Docker, OpenVPN, Bash, SSH, Github Actions, Teamcity, Cmake, make
+- Инструменты: Git, Docker, OpenVPN, Bash, SSH, Github Actions, Teamcity, Cmake, make, bazel
 
 ## Проекты
 
@@ -145,6 +147,11 @@
 - ### [kphp-runtime-docs](https://github.com/andarut/kphp-runtime-docs)
   - авг. 2023 г. - авг. 2023 г.
   - Статья на habr
+
+- ### [anime-vault](https://github.com/andarut/animevault)
+  - дек. 2024 г. - дек. 2024 г.
+  - Сайт для просмотра аниме
+  - Typescript, NextJS
 
 ## Языки
 
